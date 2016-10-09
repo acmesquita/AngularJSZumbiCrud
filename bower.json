@@ -1,0 +1,19 @@
+{
+  "name": "zumbiangular",
+  "authors": [
+    "catharina-mesquita <ana.catharina@hotmail.com>"
+  ],
+  "description": "Estudos sobre angular",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "zumbiangular"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "repository": "",
+  "private": true,
+  "dependencies": {
+    "angular":"latest","bootstrap":"latest"
+  }
+}
