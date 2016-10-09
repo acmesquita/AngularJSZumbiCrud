@@ -15,3 +15,4 @@ Crud usando o tutorial do AngularJS para Zumbi
  * Filters
  * Comunição com apis Rest (get)
  * Validação de campos
+ * Services
